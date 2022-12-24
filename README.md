@@ -8,8 +8,7 @@ In this game, the loop is used to draw the track and move the turtle from its st
 
 @2. Create snake game using PYTHON
 
-In back over childhood we also snake game in nokiya phone 😂😂😂😂
-
+In back over childhood we also snake game in nokiya phone 😂😂😂
 Snake game is one of the most popular arcade games of all time. In this game, the main objective of the player is to catch the maximum number of fruits without hitting the wall or itself. 
 
 @3. Create Pong game using PYTHON
